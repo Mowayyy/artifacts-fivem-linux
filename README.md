@@ -1,5 +1,3 @@
-# artifacts-fivem-linux
-
 ## Downloading & Installing
 
 1. Create a new folder (for example `mkdir -p /home/username/FXServer/server`), this will be used for the server binaries.
